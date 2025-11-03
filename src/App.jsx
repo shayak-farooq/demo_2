@@ -30,7 +30,7 @@ function App() {
         <p className="font-bold text-xl w-[80%] my-9">Join Prime to watch the latest movies, TV shows and award-winning Amazon Originals</p>
         <button className=" bg-white rounded-xl text-black text-xl px-4 py-3 w-fit">Sign in to join prime</button>
       </div>
-      <div className="">This div is changed in main</div>
+      <div className="">This div is changed in shayak</div>
     </section>
     </>
   )
