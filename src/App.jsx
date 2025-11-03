@@ -1,6 +1,7 @@
 import { CiSearch } from "react-icons/ci";
 import { FaChevronDown } from "react-icons/fa6";
 import { TbGridDots } from "react-icons/tb";
+import Card from "./components/Card";
 function App() {
   return (
     <>
@@ -22,6 +23,7 @@ function App() {
       <button className="rounded bg-blue-700 p-2">Join Prime</button>
     </div>
     </nav>
+    <Card/>
     <section className="bg-[url(./src/assets/images/MLP.jpg)] bg-cover bg-no-repeat h-dvh">
       <div className="text-white bg-linear-to-r from-black to-transparent w-1/2 h-dvh pt-25 pl-15 ">
         <h1 className="text-5xl font-bold">Welcome to Prime Video</h1>
